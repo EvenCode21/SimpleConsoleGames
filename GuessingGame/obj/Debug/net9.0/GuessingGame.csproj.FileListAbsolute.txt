@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\bin\Debug\net9.0\GuessingGame.exe
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\bin\Debug\net9.0\GuessingGame.deps.json
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\bin\Debug\net9.0\GuessingGame.runtimeconfig.json
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\bin\Debug\net9.0\GuessingGame.dll
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\bin\Debug\net9.0\GuessingGame.pdb
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\obj\Debug\net9.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\obj\Debug\net9.0\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\obj\Debug\net9.0\GuessingGame.AssemblyInfo.cs
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\obj\Debug\net9.0\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\obj\Debug\net9.0\GuessingGame.sourcelink.json
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\obj\Debug\net9.0\GuessingGame.dll
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\obj\Debug\net9.0\refint\GuessingGame.dll
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\obj\Debug\net9.0\GuessingGame.pdb
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\obj\Debug\net9.0\GuessingGame.genruntimeconfig.cache
+C:\Users\pc\Documents\ejercicios C# Logicos\SimpleConsoleGames\GuessingGame\obj\Debug\net9.0\ref\GuessingGame.dll
