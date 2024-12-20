@@ -2,10 +2,9 @@ namespace GuessingGame;
 
 class Game
 {
-    static Random random;
     public static void Start()
     {
-        random = new Random();
+        var random = new Random();
         Console.WriteLine("Welcome to the guessing game\n");
         Console.Write("Please enter your name: ");
         var name = Console.ReadLine();
